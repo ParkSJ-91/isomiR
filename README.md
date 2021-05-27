@@ -2,6 +2,7 @@
 
 -Summary-
 
+
 This project was launched to study the biogenesis and function of isomiR in cancer.
 
 Over the course of the project, we confirmed that most of the isomiR is controlled by cis-factors, including sequence and structure. 
@@ -15,6 +16,8 @@ Through eCLIP-seq data, we found that two RNA binding proteins, hnRNPC and U2AF2
 Because hnRNPC showed a stronger effect on isomiR-21-5ps biogenesis, we were able to demonstrate the association of the hnRNPC-isomiR-21-5ps-GHR axis wich cancer progression _in vitro_.
 
 -Code usage-
+
+
 In the "mapping" folder,
   There are a series of codes for preprocessing, mapping, and calculating expression levels of miRNA-seq and RNA-seq data.
   We used miRDeep2 for miRNA-seq and BitSeq for RNA-seq.
