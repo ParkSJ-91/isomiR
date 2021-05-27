@@ -19,20 +19,26 @@ Because hnRNPC showed a stronger effect on isomiR-21-5ps biogenesis, we were abl
 
 
 In the "mapping" folder,
+
   There are a series of codes for preprocessing, mapping, and calculating expression levels of miRNA-seq and RNA-seq data.
   We used miRDeep2 for miRNA-seq and BitSeq for RNA-seq.
   
 In the "isomiR_analysis" folder,
+
   There are codes for calculating miRNA/isomiR expression leves and their ratio and finding associated cis-factors.
  
 In the "targeting_analysis" folder,
+
   There are codes for priprotizing isomiRs and their targets using DEG analysis and TargetScan. 
 
 In the "Survival_analysis" folder,
+
   There are codes for survival analysis.
   
 In the "GHR_analysis" folder,
+
   There are codes for GO analysis of GHR correlated genes.
   
 In the "RBP_analysis" folder,
+
   There are codes for finding trans-factors that regulates isomiR-21-5ps biogenesis.
